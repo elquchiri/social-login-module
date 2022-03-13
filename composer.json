@@ -3,6 +3,7 @@
     "description": "Integrate Easy & Efficient Social Network Login in your Magento Store",
     "type": "magento2-module",
     "version": "0.0.1",
+	"license": "MIT",
     "require": {
         "php": "^7.3 || ^8.0",
         "hybridauth/hybridauth" : "~3.0"
