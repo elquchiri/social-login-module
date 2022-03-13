@@ -1,0 +1,16 @@
+{
+    "elq_sociallogin_customer": {
+        "column": {
+            "entity_id": true,
+            "social_id": true,
+            "customer_id": true,
+            "social_type": true,
+            "created_at": true,
+            "updated_at": true
+        },
+        "constraint": {
+            "PRIMARY": true,
+            "ELQ_SOCIALLOGIN_CUSTOMER_CUSTOMER_ID_CUSTOMER_ENTITY_ENTITY_ID": true
+        }
+    }
+}

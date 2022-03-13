@@ -1,0 +1,49 @@
+.social-login-container {
+
+}
+
+.social-login-container .block-title {
+
+}
+
+.social-login-container ul {
+
+}
+
+.social-login-container ul li {
+    float: left;
+    text-align: center;
+}
+
+.social-login-container ul a {
+    display: block;
+    width: 48px;
+    height: 48px;
+    padding: 11px;
+}
+
+.social-login-container ul li a.facebook {
+    background: url('../images/social_networks/fb-48.png') no-repeat 0 0;
+}
+.social-login-container ul li a.instagram {
+    background: url('../images/social_networks/instagram-48.png') no-repeat 0 0;
+}
+.social-login-container ul li a.google {
+    background: url('../images/social_networks/google-48.png') no-repeat 0 0;
+}
+.social-login-container ul li a.twitter {
+    background: url('../images/social_networks/twitter-48.png') no-repeat 0 0;
+}
+.social-login-container ul li a.amazon {
+    background: url('../images/social_networks/amazon-48.png') no-repeat 0 0;
+}
+.social-login-container ul li a.yahoo {
+    background: url('../images/social_networks/yahoo-48.png') no-repeat 0 0;
+}
+.social-login-container ul li a.github {
+    background: url('../images/social_networks/github-48.png') no-repeat 0 0;
+}
+.social-login-container ul li a.linkedin {
+    background: url('../images/social_networks/linkedin-48.png') no-repeat 0 0;
+}
+

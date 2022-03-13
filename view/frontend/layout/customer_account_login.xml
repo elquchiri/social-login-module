@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="1column" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <head>
+        <css src="ElQuchiri_SocialLogin::css/styles.css" />
+    </head>
+    <body>
+        <referenceContainer name="customer.login.container">
+            <block class="ElQuchiri\SocialLogin\Block\SocialBlock" name="elquchiri_social_login" after="customer_form_login" template="ElQuchiri_SocialLogin::form/social_login.phtml" />
+        </referenceContainer>
+    </body>
+</page>
