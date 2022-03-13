@@ -18,4 +18,5 @@ To install this module run
 - LinkedIn
 - Amazon
 - Yahoo
+- GitHub
 
