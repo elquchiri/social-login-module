@@ -1,3 +1,8 @@
+# Social Login Magento's Module
+
+Integrate Easy & Efficient Social Network Login in your Magento Store.
+
+
 ## Setup
 
 To install this module run
