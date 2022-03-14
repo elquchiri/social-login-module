@@ -1,4 +1,4 @@
-# Social Login Magento's Module
+# Social Login Magento 2 Module
 
 Integrate Easy & Efficient Social Network Login in your Magento Store.
 
