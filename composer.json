@@ -2,9 +2,10 @@
     "name": "elquchiri/social-login-module",
     "description": "Integrate Easy & Efficient Social Network Login in your Magento Store",
     "type": "magento2-module",
-    "version": "0.0.1",
+    "version": "0.0.2",
 	"license": "MIT",
 	"minimum-stability": "stable",
+	"prefer-stable": true,
     "require": {
         "php": ">=7.3",
         "hybridauth/hybridauth" : "~3.0"
