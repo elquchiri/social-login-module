@@ -31,7 +31,7 @@ use Magento\Framework\View\Element\Template;
 class SocialBlock extends \Magento\Framework\View\Element\Template
 {
 
-    private \ElQuchiri\SocialLogin\Helper\Social $socialHelper;
+    private $socialHelper;
 
     public function __construct(
         Template\Context $context,

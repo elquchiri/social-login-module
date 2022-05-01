@@ -25,7 +25,8 @@
 
 /** @var \ElQuchiri\SocialLogin\Block\SocialBlock $block */
 ?>
-<? if($block->IsSocialLoginActive() && count($block->getEnabledSocialNetworks()) > 0): ?>
+
+<?php if($block->IsSocialLoginActive() && count($block->getEnabledSocialNetworks()) > 0): ?>
 <div class="block block-customer-login">
     <!-- Social Login container -->
     <div class="social-login-container">
@@ -50,4 +51,4 @@
         }
     </script>
 </div>
-<? endif; ?>
+<?php endif; ?>

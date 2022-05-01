@@ -26,11 +26,16 @@
 
 .social-login-container .block-title {}
 
-.social-login-container ul {}
+.social-login-container ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
 
 .social-login-container ul li {
     float: left;
     text-align: center;
+
 }
 
 .social-login-container ul a {
