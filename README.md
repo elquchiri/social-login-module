@@ -25,3 +25,6 @@ To install this module run
 - Yahoo
 - GitHub
 
+
+## Demo
+![image](https://user-images.githubusercontent.com/49557724/166127042-c8c339f9-49dd-42b4-9439-ac4cddec3516.png)
