@@ -2,7 +2,7 @@
 
 Integrate Easy & Efficient Social Network Login in your Magento Store.
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.buymeacoffee.com/elquchiriw?new=1)
+[![Donate](https://img.shields.io/badge/Donate-Buymeacoffee-green.svg)](https://www.buymeacoffee.com/elquchiriw?new=1)
 
 
 ## Installation
